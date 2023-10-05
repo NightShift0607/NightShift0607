@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **A Social Networking Platform**
 
-- 🌱 I’m currently learning **Python & JavaScript**
+- 🌱 I’m currently learning **Python & BackEnd Development**
 
-- 🤝 I’ve just mastered **Bootstrap**
+- 🤝 I’ve just mastered **Front-End Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NightShift0607?tab=repositories](https://github.com/NightShift0607?tab=repositories)
 
-- 💬 Ask me about **C++, HTML, CSS**
+- 💬 Ask me about **C++, HTML, CSS, JavaScript, Bootstrap**
 
 - 📫 How to reach me **rajatgupta0607@gmail.com**
 
