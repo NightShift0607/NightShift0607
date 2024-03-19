@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajat Gupta</h1>
 <h3 align="center">My code's so clean, it deserves its own laundry day</h3>
 
-- 🔭 I’m currently working on **Personal Blog Website**
+- 🔭 I’ve recently completed a [Personal Blog Website](https://personal-blog-website-hp8r.onrender.com)
 
-- 🌱 I’m currently learning **PHP and ReactJs**
+- 🌱 I’m currently learning **ReactJs and Redux**
 
 - 🤝 I’ve just mastered **Back-End Web Devlopment**
 
