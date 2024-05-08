@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajatgupta0607@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rSEdrC3PLbLPUMhLkuGsyHTxyVFViLAk/view?usp=sharing](https://drive.google.com/file/d/1rSEdrC3PLbLPUMhLkuGsyHTxyVFViLAk/view?usp=sharing)
+- 📄 My Personal Portfolio [https://rajatgupta0607.netlify.app/](https://rajatgupta0607.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
